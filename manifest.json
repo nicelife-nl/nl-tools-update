@@ -1,14 +1,14 @@
 {
   "stable": {
-    "ver": "5.88.10",
-    "file": "NL_Tools_5.88.10.rbz",
-    "sha256": "09a600e62e65a3f6ad314c20d915fc9b75046d9a82a18b8ad956b5539f3806a4",
-    "notes": "Bản 5.88.10: gắn kho cập nhật GitHub; mã nguồn mã hoá; cắt an toàn chữ U/C; tem: bỏ QR, bỏ sheet mặt phụ, lỗ và nét nesting mảnh hơn; bỏ toolpath Dao Soi Sóng; nút Lưu Cài Đặt máy CNC.",
+    "ver": "1.00",
+    "file": "NL_Tools_1.00.rbz",
+    "sha256": "473f1a76a5248df80c596272a93a51b2b9af04718cfe789c7220bd40ce36c89e",
+    "notes": "Bản phát hành đầu tiên NL Tools 1.00 (mã hoá).",
     "mandatory": false,
     "date": "2026-11-17"
   },
   "revoked": [
 
   ],
-  "ts": 1794874627
+  "ts": 1794883393
 }
