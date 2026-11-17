@@ -1,14 +1,14 @@
 {
   "stable": {
-    "ver": "1.00",
-    "file": "NL_Tools_1.00.rbz",
-    "sha256": "473f1a76a5248df80c596272a93a51b2b9af04718cfe789c7220bd40ce36c89e",
-    "notes": "Bản phát hành đầu tiên NL Tools 1.00 (mã hoá).",
+    "ver": "1.01",
+    "file": "NL_Tools_1.01.rbz",
+    "sha256": "54a2ddf62391e86c27d92122e70f7798113cf00abbc0ebb80f01b336e228fa23",
+    "notes": "Bản 1.01: Tự động theo mẫu tủ nhớ từng chỗ ghép (loại, mặt, số lỗ, vị trí lỗ).",
     "mandatory": false,
     "date": "2026-11-17"
   },
   "revoked": [
 
   ],
-  "ts": 1794883393
+  "ts": 1794885975
 }
