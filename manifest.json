@@ -1,14 +1,14 @@
 {
   "stable": {
-    "ver": "1.01",
-    "file": "NL_Tools_1.01.rbz",
-    "sha256": "54a2ddf62391e86c27d92122e70f7798113cf00abbc0ebb80f01b336e228fa23",
-    "notes": "Bản 1.01: Tự động theo mẫu tủ nhớ từng chỗ ghép (loại, mặt, số lỗ, vị trí lỗ).",
+    "ver": "1.02",
+    "file": "NL_Tools_1.02.rbz",
+    "sha256": "4c4d3d36972b9b712905cd62d7ce4162c0bf319ed7f18a820379f82006c3a07e",
+    "notes": "Bản 1.02: Tự động theo mẫu sửa mặt cam (vị trí chỗ ghép, tủ chép cùng mã cụm), học + tạo lại mộng âm của mộng đã gộp; bấm chấm cam xem trước ⚡ tạo riêng lẻ.",
     "mandatory": false,
     "date": "2026-11-17"
   },
   "revoked": [
 
   ],
-  "ts": 1794885975
+  "ts": 1794889474
 }
