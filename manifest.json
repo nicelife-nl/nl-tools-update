@@ -1,0 +1,14 @@
+{
+  "stable": {
+    "ver": "5.88.10",
+    "file": "NL_Tools_5.88.10.rbz",
+    "sha256": "09a600e62e65a3f6ad314c20d915fc9b75046d9a82a18b8ad956b5539f3806a4",
+    "notes": "Bản 5.88.10: gắn kho cập nhật GitHub; mã nguồn mã hoá; cắt an toàn chữ U/C; tem: bỏ QR, bỏ sheet mặt phụ, lỗ và nét nesting mảnh hơn; bỏ toolpath Dao Soi Sóng; nút Lưu Cài Đặt máy CNC.",
+    "mandatory": false,
+    "date": "2026-11-17"
+  },
+  "revoked": [
+
+  ],
+  "ts": 1794874627
+}
