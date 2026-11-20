@@ -1,14 +1,14 @@
 {
   "stable": {
-    "ver": "1.02",
-    "file": "NL_Tools_1.02.rbz",
-    "sha256": "4c4d3d36972b9b712905cd62d7ce4162c0bf319ed7f18a820379f82006c3a07e",
-    "notes": "Bản 1.02: Tự động theo mẫu sửa mặt cam (vị trí chỗ ghép, tủ chép cùng mã cụm), học + tạo lại mộng âm của mộng đã gộp; bấm chấm cam xem trước ⚡ tạo riêng lẻ.",
+    "ver": "1.03",
+    "file": "NL_Tools_1.03.rbz",
+    "sha256": "e00a1c1776fd080c7b607dc34ff741ee9ddecac657bd4b6fe3df0e9797cb93a7",
+    "notes": "Bản 1.03: gộp NL Thử Nghiệm — Vẽ cong tấm 1 / 2 mặt, Trải phẳng kiểu Dưỡng nhựa R18 / R50 / R100, Đổi độ dày trong Vẽ Nhanh; Vẽ Cong gõ dài,rộng như Rectangle, Tab đổi 1 / 2 cạnh cong; Liên kết bấm hình cam / mộng tạo riêng lẻ; Đổi tên bấm tiền tố / hậu tố áp luôn; Két âm tủ đố trước dưới lùi 1 mm; Trải phẳng có Đường kính dao, Dịch bảo vệ.",
     "mandatory": false,
-    "date": "2026-11-17"
+    "date": "2026-11-20"
   },
   "revoked": [
 
   ],
-  "ts": 1794889474
+  "ts": 1795169468
 }
