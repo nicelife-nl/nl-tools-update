@@ -1,14 +1,14 @@
 {
   "stable": {
-    "ver": "1.00",
-    "file": "NL_Tools_1.00.rbz",
-    "sha256": "508e5291860412b106e94c4876734b02b2157fabeadc31d3688ebcb59831fb3d",
-    "notes": "Bản chính thức đầu tiên 1.00 (ký số SketchUp, mã hoá). Dùng thử 6 tháng, sau đó cần mã kích hoạt. G-code chống văng như isHUM: bỏ qua cạnh đã cắt, ván góc / dải hẹp kẹp giữa cắt trước; nesting xếp chặt như isHUM, lồng ván răng lược; Giao tấm cắt xuyên khi vách lùi 1 mm sau xà.",
+    "ver": "1.01",
+    "file": "NL_Tools_1.01.rbz",
+    "sha256": "b4fe03a63d85e57c1be8130c43552d0f751b04c7e227261e37ebcdee49610d1d",
+    "notes": "Bản 1.01: kèm bộ CÀI ĐẶT MẶC ĐỊNH NiceLife (thư viện dao, máy CNC / post, toolpath, nesting, gắn nhãn, tem, bản vẽ 2D...). Máy mới cài chưa có cài đặt riêng sẽ dùng bộ này; mục người dùng đã chỉnh giữ nguyên, vẫn sửa được như thường.",
     "mandatory": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
   "revoked": [
 
   ],
-  "ts": 1795602126
+  "ts": 1795654626
 }
